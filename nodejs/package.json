@@ -1,0 +1,20 @@
+{
+  "name": "demo-vs-cpp",
+  "version": "1.0.0",
+  "description": "gists of some common use cases to show how nodejs is easier to use than C++",
+  "main": "index.js",
+  "dependencies": {
+    "@types/xml2js": "^0.4.5",
+    "node-pre-gyp": "^0.14.0",
+    "oracledb": "^3.1.2",
+    "sqlite3": "^4.1.1",
+    "typeorm": "^0.2.22",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

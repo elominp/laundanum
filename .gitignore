@@ -1,0 +1,5 @@
+node_modules
+*.out
+*.o
+*.s
+*.so

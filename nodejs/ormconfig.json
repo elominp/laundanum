@@ -1,0 +1,8 @@
+[
+    {
+        "name": "toto",
+        "type": "sqlite",
+        "database": "toto.db",
+        "logging": false
+    }
+]
